@@ -14,7 +14,7 @@ Python, SQL, Power Query, Excel, Power BI
 | 02 | SQL Queries Final | This file provides SQL queries of the aggregation of the data |
 | 03 | CSV's | This folder provides the final csv files after the data cleaning |
 | 04 | Power BI Dashboard | This file contains dashboard of insights |
-| - | - | - |
+| 05 | Final_World_Electricity_Analysis | This file contains a PowerPoint presentation that highlights the major insights and conclusions of the project. |
 
 # About Dataset
 World Electricity Access of all countries since 1960.
