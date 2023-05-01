@@ -29,4 +29,4 @@ Energy production and consumption patterns are changing rapidly: As new technolo
 # Author :
 | Name | GitHub | LinkedIn |
 | - | - | - |
-| Aanchal Singh | [GitHub](https://github.com/aanchalchauhan) | [LinkedIn](www.linkedin.com/in/aanchalschauhan) |
+| Aanchal Singh | [GitHub](https://github.com/aanchalchauhan) | [LinkedIn](https://www.linkedin.com/in/aanchalschauhan/) |
