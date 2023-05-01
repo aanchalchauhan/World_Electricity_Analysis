@@ -23,9 +23,9 @@ Electricity Production across the world by different sources (nuclear , oil , re
 
 Overall transmission loss across the world.
 
-#Analysis :
-Between 2000 and 2014, there was a significant increase in the accessibility of electricity, with the percentage of people with access to electricity increasing from 78% to 85%. 
-At the same time, there was a substantial reduction in distribution loss, with the percentage of electricity lost during distribution decreasing from 80% to just 13% during this time period.
+
+# Analysis :
+Between 2000 and 2014, there was a significant increase in the accessibility of electricity, with the percentage of people with access to electricity increasing from 78% to 85%. At the same time, there was a substantial reduction in distribution loss, with the percentage of electricity lost during distribution decreasing from 80% to just 13% during this time period.
 
 
 Regions categorized as lower and lower-middle income tend to have lower rates of electricity access, and this disparity is particularly pronounced between rural and urban areas. In other words, rural areas in these regions are much less likely to have access to electricity than their urban counterparts.
