@@ -27,4 +27,6 @@ Renewable energy production is growing globally: Comparing the production of var
 Energy production and consumption patterns are changing rapidly: As new technologies and policies are introduced, energy production and consumption patterns are evolving rapidly. With the help of this project we got to know some of these changes, such as the increasing popularity of electric vehicles or the growing use of energy storage systems.
 
 # Author :
-This project was created by Aanchal Singh Chauhan. For more information, please contact www.linkedin.com/in/aanchalschauhan
+| Name | GitHub | LinkedIn |
+| - | - | - |
+| Aanchal Singh | [GitHub](https://github.com/aanchalchauhan) | [LinkedIn](www.linkedin.com/in/aanchalschauhan) |
