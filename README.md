@@ -7,7 +7,7 @@ Project objective was to investigate accessibility patterns, comparing power gen
 # Requirements :
 Python, SQL, Power Query, Excel, Power BI
 
-# About Files :
+# Files :
 | Sn. | File Name | Description |
 | - | - | - |
 | 01 | World Electricity Analysis IPYNB | This file contains the ipynb code of the data cleaning part |
@@ -15,6 +15,23 @@ Python, SQL, Power Query, Excel, Power BI
 | 03 | CSV's | This folder provides the final csv files after the data cleaning |
 | 04 | Power BI Dashboard | This file contains dashboard of insights |
 | - | - | - |
+
+# About Dataset
+World Electricity Access of all countries since 1960
+Electricity Production across the world by different sources (nuclear , oil , renewable)
+Overall transmission loss across the world
+![image](https://user-images.githubusercontent.com/72592221/235465175-798b7e6a-d715-4da0-a68b-79012df7ed42.png)
+
+
+#Analysis :
+Between 2000 and 2014, there was a significant increase in the accessibility of electricity, with the percentage of people with access to electricity increasing from 78% to 85%. 
+At the same time, there was a substantial reduction in distribution loss, with the percentage of electricity lost during distribution decreasing from 80% to just 13% during this time period.
+
+
+Regions categorized as lower and lower-middle income tend to have lower rates of electricity access, and this disparity is particularly pronounced between rural and urban areas. In other words, rural areas in these regions are much less likely to have access to electricity than their urban counterparts.
+
+
+
 
 # Insights :
 Access to electricity is still a significant challenge in many nations: By investigating accessibility patterns for various nations, we have found that certain regions or countries have limited access to electricity. This could be due to a lack of infrastructure, limited financial resources, or other barriers to access.
