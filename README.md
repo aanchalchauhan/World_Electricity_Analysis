@@ -17,11 +17,11 @@ Python, SQL, Power Query, Excel, Power BI
 | - | - | - |
 
 # About Dataset
-World Electricity Access of all countries since 1960
-Electricity Production across the world by different sources (nuclear , oil , renewable)
-Overall transmission loss across the world
-![image](https://user-images.githubusercontent.com/72592221/235465175-798b7e6a-d715-4da0-a68b-79012df7ed42.png)
+World Electricity Access of all countries since 1960.
 
+Electricity Production across the world by different sources (nuclear , oil , renewable).
+
+Overall transmission loss across the world.
 
 #Analysis :
 Between 2000 and 2014, there was a significant increase in the accessibility of electricity, with the percentage of people with access to electricity increasing from 78% to 85%. 
