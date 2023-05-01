@@ -2,10 +2,7 @@
 This repository contains the analysis of World Electricity Accsessibility and the different sources of electricity prodution for different countries. 
 
 # Objective :
-Project objective was to investigate accessibility patterns for various nations. Additionally, it compared the production of various power generation 
-sources in different regions. Moreover, it aimed to reveal some of the datasets hidden insights. 
-
-The project's objectives of investigating accessibility patterns, comparing power generation sources, and revealing hidden insights are all critical to understanding the global energy landscape and identifying opportunities for improvement.
+Project objective was to investigate accessibility patterns, comparing power generation sources, and revealing hidden insights are all critical to understanding the global energy landscape and identifying opportunities for improvement.
 
 # Requirements :
 Python, SQL, Power Query, Excel, Power BI
