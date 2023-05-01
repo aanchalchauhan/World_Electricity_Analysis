@@ -11,10 +11,13 @@ The project's objectives of investigating accessibility patterns, comparing powe
 Python, SQL, Power Query, Excel, Power BI
 
 # About Files :
-World Electricity Analysis IPYNB:	This file contains the ipynb code of the data cleaning part.
-SQL Queries Final: This file provides SQL queries of the aggregation of the data.
-CSV's: This folder provides the final csv files after the data cleaning.
-Power BI Dashboard: This file contains dashboard of insights.
+| Sn. | File Name | Description |
+| - | - | - |
+| 01 | World Electricity Analysis IPYNB | This file contains the ipynb code of the data cleaning part |
+| 02 | SQL Queries Final | This file provides SQL queries of the aggregation of the data |
+| 03 | CSV's | This folder provides the final csv files after the data cleaning |
+| 04 | Power BI Dashboard | This file contains dashboard of insights |
+| - | - | - |
 
 # Insights :
 Access to electricity is still a significant challenge in many nations: By investigating accessibility patterns for various nations, we have found that certain regions or countries have limited access to electricity. This could be due to a lack of infrastructure, limited financial resources, or other barriers to access.
